@@ -16,6 +16,7 @@ Practices from Antra
 
 
 ## [HW 4](https://github.com/huypham0427/Antra/tree/master/HW4)
+- ### RESTful API demo
 - Create tables and insert values into database
 - Using Hibernate to connect with database
 - Use RESTful API(Get, Post, Put, Delete) to connect data to URL 
